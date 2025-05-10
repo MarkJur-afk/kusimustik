@@ -1,1 +1,11 @@
-w:w
+Mis on Python?:programmeerimiskeel
+Mis värvi on lumi?:valge
+Kui palju on 2+2?:4
+Mis on Eesti pealinn?:tallinn
+Kui palju kuud on aastas?:12
+Mis värvi on rohi?:roheline
+Kes kirjutas "Kevade"?:tammsaare
+Mis on vee keemistemperatuur C järgi?:100
+Kui palju jalgu on ämblikul?:8
+Kui pikk on tund minutites?:60
+
